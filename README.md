@@ -1,5 +1,7 @@
 # GTD Coach - Claude Code Plugin
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2T024VDBG)
+
 [English](README.md) | [中文](README_CN.md)
 
 Personal GTD (Getting Things Done) coach that transforms annual goals into actionable daily tasks with automatic progress tracking.
