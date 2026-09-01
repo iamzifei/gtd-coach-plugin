@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Personal GTD coach that transforms annual goals into actionable daily tasks. Features automatic memory for cross-session progress tracking, daily task generation, step-by-step guidance, and review systems. Supports English, 中文, 日本語.",
   "author": {
-    "name": "Orris AI",
-    "url": "https://github.com/orris-ai"
+    "name": "James",
+    "url": "https://github.com/iamzifei"
   },
   "license": "MIT",
   "keywords": [
